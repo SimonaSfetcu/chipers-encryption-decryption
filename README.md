@@ -52,7 +52,7 @@ None at the moment.
 
 ## Authors
 
-Sfetcu Simona.
+Simona Sfetcu
 
 # License
 
